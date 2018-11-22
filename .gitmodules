@@ -1,0 +1,15 @@
+[submodule "freecodecamp-timestampservice"]
+	path = freecodecamp-timestampservice
+	url = https://github.com/tms2018/freecodecamp-timestampservice.git
+[submodule "freecodecamp-urlshorteningservice"]
+	path = freecodecamp-urlshorteningservice
+	url = https://github.com/tms2018/freecodecamp-urlshorteningservice.git
+[submodule "FreeCodeCamp-FileSize"]
+	path = FreeCodeCamp-FileSize
+	url = https://github.com/tms2018/FreeCodeCamp-FileSize.git
+[submodule "FreeCodeCamp-ImageSearch"]
+	path = FreeCodeCamp-ImageSearch
+	url = https://github.com/tms2018/FreeCodeCamp-ImageSearch.git
+[submodule "FreeCodeCamp-HeaderParserService"]
+	path = FreeCodeCamp-HeaderParserService
+	url = https://github.com/tms2018/FreeCodeCamp-HeaderParserService.git
